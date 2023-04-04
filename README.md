@@ -5,6 +5,9 @@ Inspiration
 ---
 I remember eating at a restaurant and wondering how many people actually clean their hands properly before handling food. I then thought it would be cool to regulate who washes their hands frequently. With the help of AI and useful web sources we could make the world a cleaner place.
 
+How it Works
+---
+
 Where Could You Find Clean Space?
 ---
 Clean Space could be found in restuarants, airports, homes, schools etc.
