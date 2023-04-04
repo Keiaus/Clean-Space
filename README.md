@@ -18,5 +18,8 @@ According to Centers For Disease Control and Prevention, Feces (poop) from peopl
 
 Sources
 ---
-https://www.cdc.gov/foodsafety/foodborne-germs.html <br />
+Centers For Disease Control and Prevention, *Show Me the Science - Why Wash Your Hands?*<br />
+https://www.cdc.gov/foodsafety/foodborne-germs.html<br /><br />
+
+Centers For Disease Control and Prevention, *Foodborne Germs and Illnesses*<br/>
 https://www.cdc.gov/handwashing/why-handwashing.html
