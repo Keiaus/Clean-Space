@@ -3,7 +3,7 @@ Clean Space is an AI that detects the type of germs on your hands and how severe
 
 Inspiration
 ---
-I remember eating at a restaurant and wondering how many people actually clean their hands properly before handling food. I then thought it would be cool to regulate who washes their hands frequently. With the help of AI and useful web sources we could make the world a cleaner place.
+I remember eating at a restaurant and wondering how many people actually clean their hands properly before handling food. Then I thought it would be cool to regulate positive hygiene practices in a work space. With the help of AI and useful web sources we could make the world a cleaner place for all.
 
 How it Works
 ---
