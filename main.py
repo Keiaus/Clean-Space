@@ -8,4 +8,5 @@ import cs_utils
 
 class Main():
     cs = cs_utils.CSUtils()
+    
     print(cs.germ_check())
