@@ -22,7 +22,6 @@ class CSUtils():
         print(f'{self.color_schema[0]}' + "\nYour hands are clean.")
         self.scan_count += 1
         print("Hands scanned", self.scan_count, "times.")
-        exit
 
     # This function checks to see if the person's hands are clean
     # It also calls the other functions
