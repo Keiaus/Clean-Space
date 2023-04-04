@@ -7,5 +7,5 @@ import sys
 import cs_utils
 
 class Main():
-    def __init__(self) -> None:
-        return cs_utils.CSUtils
+    cs = cs_utils.CSUtils()
+    print(cs.germ_check())
