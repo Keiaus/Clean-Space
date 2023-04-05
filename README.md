@@ -1,5 +1,5 @@
 # Clean-Space
-Clean Space is an AI that detects the type of germs on your hands and how severe they can be to your health.
+Clean Space is an AI based system that detects the types of germs on your hands and will notify you on when to wash them. This system will encourage people to wash their hands after using the bathroom, dealing with raw meat, etc.
 
 Inspiration
 ---
